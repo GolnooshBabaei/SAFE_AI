@@ -16,4 +16,4 @@ conda install -c conda-forge shap
 
 # Citations
 The algorithms and visualizations used in this package came primarily out of research in Statistical laboratory at the University of Pavia. If you use safe_ai package in your research we would appreciate a citation to the appropriate paper(s):
-* For the RGA measure introduced in "Sustainability and Robustness", you can read/cite [this pape]([URL](https://link.springer.com/article/10.1007/s11135-023-01613-y)https://link.springer.com/article/10.1007/s11135-023-01613-y)
+* For the RGA measure introduced in "Sustainability and Robustness", you can read/cite [this pape](https://link.springer.com/article/10.1007/s11135-023-01613-y)
