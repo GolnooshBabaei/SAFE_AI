@@ -10,11 +10,11 @@ requires that AI models are interpretable in terms of their drivers.
 # Install
 safe_ai package can be installed from either PyPI or conda-forge:
 
-pip install shap
+pip install safe_ai
 
 or
 
-conda install -c conda-forge shap
+conda install -c conda-forge safe_ai
 
 # Citations
 The algorithms and visualizations used in this package came primarily out of research by [Paolo Giudici](https://www.linkedin.com/in/paolo-giudici-60028a/), [Emanuela Raffinetti](https://www.linkedin.com/in/emanuela-raffinetti-a3980215/), and [Golnoosh Babaei](https://www.linkedin.com/in/golnoosh-babaei-990077187/) in the [Statistical laboratory](https://sites.google.com/unipv.it/statslab-pavia/home?authuser=0) at the University of Pavia. If you use safe_ai package in your research we would appreciate a citation to the appropriate paper(s):
